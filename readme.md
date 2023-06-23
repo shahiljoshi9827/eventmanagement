@@ -54,7 +54,8 @@ To run the Event Management App locally, follow these steps:
      docker compose up
    ```
 
-
+## Postman Collection
+https://api.postman.com/collections/27560414-7ee9071e-52a6-46d1-b636-37e0ee9b00ef?access_key=PMAT-01H3MSTV9RS201ABHSN63RARJ5
 
     
 
